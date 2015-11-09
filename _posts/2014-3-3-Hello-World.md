@@ -16,5 +16,3 @@ La técnica consiste en 6 integrantes que escriben 3 ideas cada uno en una hoja 
 Fue entonces que como equipo nos iluminamos. Y tal como pronostica la teoría donde las ideas surgen de la necesidad… ¡eureka! Hagamos una herramienta para colaborar haciendo brainstorming que sea online y despeguémosnos de las restricciones de tiempo y espacio que estamos teniendo.
 
 La propuesta superó nuestras expectativas. Esperamos y soñamos que el producto supere las tuyas. Bienvenido!
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
