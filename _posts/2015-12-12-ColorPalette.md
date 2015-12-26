@@ -11,6 +11,7 @@ Como buen equipo de desarrolladores ingenieriles nos habíamos dedicado intensam
 Haciendo un poco de investigación y buscando inspiración en las páginas de las consideradas aplicaciones favoritas, llegamos a la conclusión de que el color protagónico de nuestra aplicación debía ser el amarillo. Color que a nuestro entender, transmite el concepto de creatividad, de nuevas ideas. Un poco por lo que pudimos aprender sobre el significado de los colores y otro poco por el color predominante del ícono mundial de una idea, la lamparita encendida. Sumamos a esto una sencilla manera de resaltarlo, ya que sobre blanco resulta de visibilidad dificultosa, utilizando un fondo oscuro: negro. Para terminar de ampliar la paleta, sumamos un color que aumenta la popularidad de la creatividad y la felicidad, el naranja. Quisimos ser aún más cool, y agregamos lo que en algún comentario de la web nos sugirió, un color complementario a éste, y los neutros para matizar. Perfecto, teníamos la paleta y el resultado fue este:  
 
 ![alt text] (https://github.com/brainstorming-app/brainstorming-app.github.io/blob/master/images/old_brainstorming.png)
+
 (Nota: siendo un imagen se pierde el detalle de las burbujas que fluyen moviéndose gentilmente hacia la barra superior, moviéndose literal).
 
 Detengámosnos nuevamente en el comentario “no me gustan los colores” y miremos fijo esa imagen. Puede que unos meses atrás haya estado en voga, pero las tendencias actuales de minimalismo y dinamismo entierran este diseño anticuado y lúgubre.
@@ -21,4 +22,4 @@ Así fue que estuvimos trabajando en mejorarlo. Comenzamos por cambiar el fondo,
 
 Estamos felices por el resultado.
 
-P.D: Queremos agradecer a @giopromolla por disparar la búsqueda de la nueva paleta y a @CaggianoUX por aconsejarnos compartiendo su gran conocimiento.
+P.D: Queremos agradecer a [@giopromolla](https://twitter.com/giopromolla?lang=es) por disparar la búsqueda de la nueva paleta y a [@CaggianoUX](https://twitter.com/CaggianoUX?lang=es) por aconsejarnos compartiendo su gran conocimiento.
