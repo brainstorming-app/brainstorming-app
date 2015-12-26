@@ -20,7 +20,7 @@ Detengámosnos nuevamente en el comentario “no me gustan los colores” y mire
 Así fue que estuvimos trabajando en mejorarlo. Comenzamos por cambiar el fondo, para que pueda transmitir calma y claridad, ambas características importantes al momento de pensar para crear. Continuamos por remover la distracción de las burbujas, para dar importancia al logo que nos identifica. Mantuvimos el amarillo, porque la creatividad, la felicidad y la energía positiva es algo que queremos seguir contagiando. También intentamos seguir siendo cool, pero hicimos brillar a su complementario hacia un tono más celeste y así ser responsables desde una mirada fresca y amistosa. El acento final lo dimos reemplanzado el naranja por el fucsia para no dejar de lado la pasión y el compromiso por el trabajo en equipo.
 
 ![paleta] 
-[paleta]: https://github.com/brainstorming-app/brainstorming-app.github.io/blob/master/images/paletabrains.png "Paleta de Colores"
+[paleta]: https://raw.githubusercontent.com/brainstorming-app/brainstorming-app.github.io/master/images/paletabrains.png "Paleta de Colores"
 
 Estamos felices por el resultado.
 
