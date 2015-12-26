@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Qué es Brainstorming.io?
 permalink: /about/
 ---
 
