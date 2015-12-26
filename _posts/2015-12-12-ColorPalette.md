@@ -10,7 +10,7 @@ Como buen equipo de desarrolladores ingenieriles nos habíamos dedicado intensam
 
 Haciendo un poco de investigación y buscando inspiración en las páginas de las consideradas aplicaciones favoritas, llegamos a la conclusión de que el color protagónico de nuestra aplicación debía ser el amarillo. Color que a nuestro entender, transmite el concepto de creatividad, de nuevas ideas. Un poco por lo que pudimos aprender sobre el significado de los colores y otro poco por el color predominante del ícono mundial de una idea, la lamparita encendida. Sumamos a esto una sencilla manera de resaltarlo, ya que sobre blanco resulta de visibilidad dificultosa, utilizando un fondo oscuro: negro. Para terminar de ampliar la paleta, sumamos un color que aumenta la popularidad de la creatividad y la felicidad, el naranja. Quisimos ser aún más cool, y agregamos lo que en algún comentario de la web nos sugirió, un color complementario a éste, y los neutros para matizar. Perfecto, teníamos la paleta y el resultado fue este:  
 
-![alt text] (https://github.com/brainstorming-app/brainstorming-app.github.io/blob/master/images/old_brainstorming.png “Old Brainstorming”)
+![alt text] (https://github.com/brainstorming-app/brainstorming-app.github.io/blob/master/images/old_brainstorming.png "Old Brainstorming")
 
 (Nota: siendo un imagen se pierde el detalle de las burbujas que fluyen moviéndose gentilmente hacia la barra superior, moviéndose literal).
 
