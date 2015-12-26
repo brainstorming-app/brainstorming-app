@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: Qué es Brainstorming.io?
 permalink: /about/
 ---
 
-Some information about you!
+Brainstorming es un espacio en el cual podés crear nuevas ideas colaborando con tu equipo.
 
-### More Information
+### Contactanos
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[brainstorming.app@gmail.com](mailto:brainstorming.app@gmail.com)
