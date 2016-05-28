@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nuestros usuarios dijeron: Azul!
+title: Nuestros usuarios dijeron Azul
 author: "@tapiajimena"
 ---
 
