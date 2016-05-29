@@ -6,6 +6,4 @@ author: "@tapiajimena"
 
 Con uds. el dashboard ganador. Gracias a todos los que compartieron sus ideas!
 
-![userthoughts]
-
-[userthoughts]: https://raw.githubusercontent.com/brainstorming-app/brainstorming-app.github.io/master/images/resultadoEncuesta.png "Resultados"
+![userthoughts] (https://raw.githubusercontent.com/brainstorming-app/brainstorming-app.github.io/master/images/resultadoEncuesta.png)
